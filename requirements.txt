@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+langsmith
+pymysql
+python-dotenv
+langgraph
+langchain-google-genai
